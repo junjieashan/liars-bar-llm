@@ -4,6 +4,8 @@ import re
 from typing import List, Dict
 from llm_client import LLMClient
 
+
+
 RULE_BASE_PATH = "prompt/rule_base.txt"
 PLAY_CARD_PROMPT_TEMPLATE_PATH = "prompt/play_card_prompt_template.txt"
 CHALLENGE_PROMPT_TEMPLATE_PATH = "prompt/challenge_prompt_template.txt"
